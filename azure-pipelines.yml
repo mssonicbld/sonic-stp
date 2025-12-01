@@ -3,7 +3,7 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
-pool: sonicso1ES-amd64
+pool: justForTesting
 
 trigger:
   branches:
